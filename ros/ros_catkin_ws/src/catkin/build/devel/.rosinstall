@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/James64Admin/ros_catkin_ws/src/catkin/build/devel/setup.sh

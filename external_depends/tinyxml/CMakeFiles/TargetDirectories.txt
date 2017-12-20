@@ -1,0 +1,7 @@
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/install.dir
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/list_install_components.dir
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/rebuild_cache.dir
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/tinyxml.dir
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/install/strip.dir
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/install/local.dir
+/home/James64Admin/CsProjects/CxxProjects/CxxLibraries/tinyxml/CMakeFiles/edit_cache.dir

@@ -1,0 +1,8 @@
+prefix=/home/James64Admin/ros_catkin_ws/src/catkin/build/devel
+
+Name: catkin
+Description: Description of catkin
+Version: 0.7.6
+Cflags: 
+Libs: -L/home/James64Admin/ros_catkin_ws/src/catkin/build/devel/lib 
+Requires: 
